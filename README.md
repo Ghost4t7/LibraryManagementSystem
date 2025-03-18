@@ -99,4 +99,6 @@ java -cp ".;mysql-connector-java.jar" org.aniket.sql.Main
 
 ## Author
 - **Aniket Paul**
+- https://github.com/Ghost4t7
+- https://www.linkedin.com/in/aniket-paul-ghost4t7/
 
