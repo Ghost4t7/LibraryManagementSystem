@@ -10,7 +10,7 @@ public class Main {
     private static Scanner scanner = new Scanner(System.in);
     
     public static void main(String[] args) {
-        BookDAO.viewBooks();
+        Display.show();
         while (true) {
             System.out.println("\n==== Library Management System ====");
             System.out.println("1. Register");
